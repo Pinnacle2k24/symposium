@@ -1,0 +1,42 @@
+.poster{
+    width: 100%;
+}
+
+.eventimage{
+    height: 300px;
+    width: 350px;
+}
+
+.event-heading{
+    color: rgb(72, 232, 14);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 40px;
+}
+
+.event-para{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+.heading{
+    font-family: roboto;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.para{
+    font-family: roboto;
+    font-size: 24px;
+}
+
+.contactus-image{
+    height: 50px;
+    margin-right: 10px;
+}
+
+.margin{
+    margin-left: 100px;
+}
