@@ -8,7 +8,7 @@
 }
 
 .event-heading{
-    color: rgb(72, 232, 14);
+    color: rgb(35, 58, 206);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     font-style: oblique;
@@ -30,6 +30,7 @@
 .para{
     font-family: roboto;
     font-size: 24px;
+    font-weight: 500;
 }
 
 .contactus-image{
